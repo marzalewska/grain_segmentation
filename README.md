@@ -8,6 +8,9 @@ Images were taken with a rotation every 30◦. Due to the properties of the quar
 - With a single polariser, the quartz grains are clearly visible as green grains, with the crossed ones as spots of different shades of green.
 - With two crossed polarisers, the calcite takes on a yellow/orange colour and its structure is granular.
 
+The analysis process included image processing, segmentation and calculation of the areas of the individual components in square micrometres.
+The report includes a detailed description of the image processing, example images before and after analysis, and the results in the form of calculated areas.
+
 After all the transformations, the final result is the image below, in which the green colour represents glauconite grains, red stands for quartz, blue for calcite and yellow represents other types of grains.
 ![Zlaczone_maksi](https://github.com/user-attachments/assets/3b64792c-268c-49f3-98a5-40cb2ce5db77)
 
